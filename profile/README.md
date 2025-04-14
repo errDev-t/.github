@@ -8,4 +8,6 @@ https://docs.err.cool/
 # Community
 
 Join our community to get the latest updates, share feedback, and get support.
-<iframe src="https://discord.com/widget?id=1151640079329140786&theme=dark" width="350" height="500" allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"></iframe>
+  <p><a href="[https://discord.overextended.dev](https://discord.gg/yGUU59WjuM)">
+      <img src="https://img.shields.io/discord/1151640079329140786?style=for-the-badge&logo=discord&labelColor=7289da&logoColor=white&color=2c2f33&label=Discord"/>
+  </a></p>
