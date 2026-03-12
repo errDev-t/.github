@@ -3,7 +3,7 @@
 ERR Dev is a FiveM development studio dedicated to building high-quality scripts and resources, with a focus on performance, reliability, and immersive roleplay experiences.
 
 # Documentation
-https://docs.err.cool/
+https://docs.err-scripts.xyz/
 
 
   <p><a href="https://discord.gg/yGUU59WjuM">
